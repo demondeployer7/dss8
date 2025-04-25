@@ -11,7 +11,7 @@ import io
 
 # GitHub API Constants
 REPO_OWNER = "demondeployer7"  # Replace with your GitHub username
-REPO_NAME = "dss"  # Replace with your repository name
+REPO_NAME = "dss8"  # Replace with your repository name
 GITHUB_TOKEN = st.secrets["github_token"]  # Make sure to add this in Streamlit secrets
 
 # File paths in GitHub repo
