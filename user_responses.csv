@@ -1,3 +1,1 @@
 user_id,group_id,timestamp,preferred_cuisine,usual_eating_time,preferred_place,main_course,extra_treat,drink_choice,comfort_sip,dietary_preference
-user1,group1,2025-04-25 15:14:14,['African'],Breakfast,['Pubs'],['Soup and Sandwiches'],['Smoothies and Bagels'],['Cocktail'],['Coffee'],Vegan
-user7,group1,2025-04-25 15:15:05,['African'],Breakfast,['Lounges'],['Chicken and Salad'],['Bagels and Juice'],['Wine'],['Coffee'],Vegan
