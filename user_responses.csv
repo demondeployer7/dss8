@@ -2,3 +2,4 @@ user_id,group_id,timestamp,preferred_cuisine,usual_eating_time,preferred_place,m
 user18,group4,2025-04-26 09:11:51,['Mexican'],Nightlife,['Diners'],"['Noodles and Ramen', 'Tacos and Chips']",['Bagels and Juice'],['Beer'],['None of the below'],Vegan
 user22,group4,2025-04-26 09:11:57,['Indian'],Nightlife,['Restaurants'],['Burgers and Pizza'],['Desserts'],['Juice'],['Tea'],Non-Vegetarian
 user21,group4,2025-04-26 09:12:16,['Indian'],Nightlife,['Restaurants'],['Pizza and Wings'],['Bagels and Juice'],['Juice'],['Coffee'],Vegetarian
+user17,group4,2025-04-26 09:12:25,"['Mexican', 'Italian', 'Thai', 'Indian', 'Chinese']",Nightlife,"['Restaurants', 'Pubs', 'Diners', 'Bars']","['Chicken and Salad', 'Cheesesteaks and Chips', 'Fish and Chips', 'Soup and Noodles', 'Pizza and Wings']","['Bagels and Juice', 'Desserts']","['Cocktail', 'Beer', 'Wine']",['Coffee'],Non-Vegetarian
