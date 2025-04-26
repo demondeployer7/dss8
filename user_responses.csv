@@ -1,2 +1,3 @@
 user_id,group_id,timestamp,preferred_cuisine,usual_eating_time,preferred_place,main_course,extra_treat,drink_choice,comfort_sip,dietary_preference
 user18,group4,2025-04-26 09:11:51,['Mexican'],Nightlife,['Diners'],"['Noodles and Ramen', 'Tacos and Chips']",['Bagels and Juice'],['Beer'],['None of the below'],Vegan
+user22,group4,2025-04-26 09:11:57,['Indian'],Nightlife,['Restaurants'],['Burgers and Pizza'],['Desserts'],['Juice'],['Tea'],Non-Vegetarian
