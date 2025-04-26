@@ -6,3 +6,4 @@ user17,group4,2025-04-26 09:12:25,"['Mexican', 'Italian', 'Thai', 'Indian', 'Chi
 user23,group4,2025-04-26 09:12:35,"['Italian', 'Korean', 'Caribbean']",Nightlife,"['Restaurants', 'Pubs', 'Street Food Stalls']","['Chicken and Salad', 'Noodles and Ramen', 'Cheesesteaks and Chips']",['Desserts'],['Beer'],['None of the below'],Non-Vegetarian
 user16,group4,2025-04-26 09:12:54,['Thai'],Nightlife,['Buffets'],['Fish and Chips'],['Desserts'],['Juice'],['Coffee'],Non-Vegetarian
 user19,group4,2025-04-26 09:13:05,['Indian'],Nightlife,['Buffets'],"['Chicken and Salad', 'Fish and Chips']",['Desserts'],['None of the below'],['Coffee'],Non-Vegetarian
+user20,group4,2025-04-26 09:13:27,"['None of the below', 'Indian']",Breakfast,['Buffets'],['Chicken and Salad'],['Desserts'],['Beer'],"['None of the below', 'Coffee']",Vegan
